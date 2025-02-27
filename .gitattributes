@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+$ git clean -fd
+Removing 00_TEST_Space/
+Removing 01_Variable/
+Removing 01_VariablePractice/
+Removing 02_Operator/
+Removing 02_OperatorPractice/
+Removing 03_Control/
+Removing 03_ControlPractice/
+Removing 04_Array/
+Removing 06_ObjectArray/
+Removing 07_Inheritance/
+Removing 08_Polymorphism/
+Removing 09_API/
+Removing 09_API_Homework/
+Removing 10_Exception/
+Removing 11_IO/
+Removing 12_Collection/
+Removing 12_Collection_Homework/
+Removing release-based-workflow/
+
+$ git status
+On branch master
+nothing to commit, working tree clean
