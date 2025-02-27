@@ -1,6 +1,11 @@
 package com.kh.chap03_class.model.vo;
 
 public class Product {
+	// 클래스 선언 구문에 작성가능한 접근제한자 (public, default)
+	// default라고 쓰는 것이 아니고 접근제한자
+	// default로 하면 같은 패키지 내에서만 사용 가능하다.
+	
+	
 	
 	/*
 	 * * 필드(filed)

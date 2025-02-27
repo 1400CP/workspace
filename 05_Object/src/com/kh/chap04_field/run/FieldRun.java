@@ -10,8 +10,8 @@ public class FieldRun {
 		
 		// -------FieldTest1--------
 		
-		// FieldTest1 f1 = new FieldTest1();
-		// f1.test(1);
+		FieldTest1 f1 = new FieldTest1();
+		f1.test(1);
 		
 		
 		// public

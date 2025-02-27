@@ -1,40 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<section name="ResourceNavigator">
-		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
-		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1732705697847"/>
-	</section>
 	<section name="SmartImportWizard">
 		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
-			<item value="C:\workspace\03_Control"/>
-			<item value="C:\workspace\02_OperatorPractice"/>
-			<item value="C:\workspace\02_Operator"/>
-			<item value="C:\workspace"/>
+			<item value="C:\workspace\12_Collection_Homework"/>
+			<item value="C:\workspace\08_Polymorphism"/>
+			<item value="C:\workspace\09_API_Homework"/>
+			<item value="C:\workspace\11_IO"/>
+			<item value="C:\workspace\12_Collection"/>
+			<item value="C:\workspace\09_API"/>
+			<item value="C:\workspace\08_Polymorphism\src\com"/>
+			<item value="C:\00_TEST"/>
 			<item value="C:\workspace\01_Java-workspace"/>
-			<item value="C:\workspace\01_VariablePractice"/>
+			<item value="C:\workspace"/>
 		</list>
 	</section>
-	<section name="org.eclipse.ui.internal.views.markers.FiltersConfigurationDialog">
+	<section name="ResourceNavigator">
+		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
+		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1732837869014"/>
+		<item key="LINK_NAVIGATOR_TO_EDITOR" value="true"/>
 	</section>
-	<section name="SaveAsDialogSettings">
-		<item key="DIALOG_X_ORIGIN" value="293"/>
-		<item key="DIALOG_Y_ORIGIN" value="80"/>
-		<item key="DIALOG_WIDTH" value="438"/>
-		<item key="DIALOG_HEIGHT" value="559"/>
-		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-21|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\workspace\12_Collection_Homework"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
 	</section>
 	<section name="ChooseWorkspaceDialogSettings">
-		<item key="DIALOG_X_ORIGIN" value="216"/>
-		<item key="DIALOG_Y_ORIGIN" value="265"/>
+		<item key="DIALOG_X_ORIGIN" value="218"/>
+		<item key="DIALOG_Y_ORIGIN" value="336"/>
 	</section>
 	<section name="WORKBENCH_SETTINGS">
 		<list key="ENABLED_TRANSFERS">
 		</list>
 	</section>
-	<section name="ExternalProjectImportWizard">
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/07_Inheritance/src/com/kh/chap01_beforeVSSafter/after/model/vo/Desktop.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<item key="ShowDerived" value="false"/>
+		<item key="FilterByLocation" value="false"/>
+		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="975"/>
+			<item key="DIALOG_Y_ORIGIN" value="165"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="347"/>
+		<item key="DIALOG_Y_ORIGIN" value="151"/>
+		<item key="DIALOG_WIDTH" value="438"/>
+		<item key="DIALOG_HEIGHT" value="559"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-21|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>

@@ -1,7 +1,5 @@
 package com.kh.chap03_class.run;
 
-import com.kh.chap03_class.model.vo.*;
-
 public class ClassRun {
 
 	public static void main (String[] args) {

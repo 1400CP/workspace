@@ -1,16 +1,13 @@
 package com.kh.chap04_field.model.vo;
 
-import com.kh.chap04_field.model.vo.FieldTest1;
-import com.kh.chap04_field.model.vo.FieldTest2;
-
 public class Test {
 	
 	public static void main(String[] args) {
 		
 		// -------FieldTest1--------
 		
-		// FieldTest1 f1 = new FieldTest1();
-		// f1.test(1);
+		FieldTest1 f1 = new FieldTest1();
+		f1.test(1);
 		
 		
 		// public

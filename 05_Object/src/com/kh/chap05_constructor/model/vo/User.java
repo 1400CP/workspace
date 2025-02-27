@@ -33,24 +33,25 @@ public class User {
 		
 	}
 	
-	public User(String userId, String userPwd, String userName, int age, char gender) {
-		// 순서를 절대로 바꾸지 마시오.
-		this.userId = userId;
-		this.userPwd = userPwd;
-		this.userName = userName;
-		this.age = age;
-		this.gender = gender;
-		}
-	
 	// 매개변수 생성자
 	// 객체 생성과 동시에 전달값들을 매개변수로 받아서 해당 각 필드에 초기화할 목적
 	public User(String userId, String userPwd, String userName) {
 	// setter 메소드 실행시 수행됐던 코드들
-	//	this(userId, userPwd, userName);
-		
+		// 순서를 절대로 바꾸지 마시오.
+		this.userId = userId;
+		this.userPwd = userPwd;
+		this.userName = userName;
 	}
 	// this.age = age;							==>?
 	// this.gender = gender;					==>?
+	
+	//전체 매개변수 생성자
+	public User(String userId, String userPwd, String userName, int age, char gender) {
+		this(userId, userPwd, userName);
+		this.age = age;
+		this.gender = gender;
+		}
+
 	/*
 	 * 위와 같이 중복되는 동일한 초기화하는 내용의 생성자가 이미 존재할 경우
 	 * this() 생성자 활용가능
@@ -58,15 +59,13 @@ public class User {
 	 * 유의사항 : 반드시 첫줄에 작성해야 함!! 위치가 맨 위. 아래에 있으면 오류 남.
 	 */
 	
-	
-	//전체 매개변수 생성자
-	public String User(String userId, String UserPwd, String userName, int age, char gender) {
-		return ("userId : " + userId + ", userPwd : " + userPwd + ", userName : " + userName + ", int age : " + age + ", char gender" + gender);
-	}
+
+//	public String User(String userId, String UserPwd, String userName, int age, char gender) {
+//		return ("userId : " + userId + ", userPwd : " + userPwd + ", userName : " + userName + ", int age : " + age + ", char gender" + gender);
+//	}
 	
 	
 	// get - set (한번에, 세트로 만들어주세요.)
-	
 	
 	public String getUserId() {
 		return userId;

@@ -1,6 +1,7 @@
 package com.kh.chap03_class.model.vo;
 
 public class Person {
+	
 
 	// 필드 선언
 	private String id;
@@ -10,6 +11,27 @@ public class Person {
 	private char gender;
 	private String phone;
 	private String email;
+	
+	// 기본 + 전체매개변수 생성자
+	
+	public Person(String id, String pwd, String name) {
+		
+	
+	
+	/*
+	public Person() {
+		public void setId() {
+			this.id = id;
+		}
+		public String getId() {
+			return id;
+		}
+	
+
+	}
+	*/
+	
+	/*
 	
 	// - setter 메소드 7개
 	// - getter 메소드를 만들어야 한다.
@@ -72,6 +94,8 @@ public class Person {
 	public String getEmail() {
 		return email;
 	}
+	*/
+	}
 	
-	
-}
+}	
+

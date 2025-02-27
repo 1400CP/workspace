@@ -9,7 +9,7 @@ import com.kh.chap06_method.controller.StaticMethod;
 public class MethodRun {
 	
 	public static void main (String[] args) {
-		/*
+		
 		// -------------------NonStaticMethod-----------------------
 		NonStaticMethod n = new NonStaticMethod();
 		
@@ -49,7 +49,8 @@ public class MethodRun {
 		}else {
 			System.out.println("인덱스 값이 부적절하다.");
 		}
-		*/
+		
+		sc.close();
 		
 		// -------------------StaticMethod-----------------------
 		// Math.random();
