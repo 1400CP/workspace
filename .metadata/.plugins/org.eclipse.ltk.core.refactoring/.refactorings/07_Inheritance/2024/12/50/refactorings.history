@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;07_Inheritance/src/com/kh/chap02_inherit/model/vo/Airpllane.java&apos; to &apos;Airplane.java&apos;" description="Rename resource &apos;Airpllane.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/kh/chap02_inherit/model/vo/Airpllane.java" name="Airplane.java" stamp="1733903030437" updateReferences="true"/>
+</session>

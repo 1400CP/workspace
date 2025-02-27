@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;01_Variable/src/com/kh/variable/C__printf.java&apos; to &apos;C_printf.java&apos;" description="Rename resource &apos;C__printf.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/kh/variable/C__printf.java" name="C_printf.java" stamp="1732841534272" updateReferences="true"/>
+</session>
